@@ -7,7 +7,15 @@ A high-performance C# code mod for Cities: Skylines II that automatically remove
 - Safely removes the buildings and their associated child entities (sub-areas, networks, lanes).
 - Built using the Unity Entity Component System (ECS) and Burst compiler for zero impact on game performance.
 
-## How to Build
+## Installation (For Players)
+This mod is officially available on Paradox Mods! 
+To install it:
+1. Launch **Cities: Skylines II**.
+2. Open the **Paradox Mods** menu from the main screen.
+3. Search for **"Auto Bulldoze"** (or look under your subscribed playsets).
+4. Click **Add to Playset** and make sure it is enabled.
+
+## How to Build (For Developers)
 
 ### Prerequisites
 - [Cities: Skylines II](https://store.steampowered.com/app/949230/Cities_Skylines_II/)
